@@ -1,1 +1,2 @@
-# Splitbots
+
+worker: node bot.js
